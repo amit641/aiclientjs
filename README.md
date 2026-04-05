@@ -7,7 +7,7 @@
     One function. Any model. Zero dependencies.
   </p>
   <p align="center">
-    <a href="#install">Install</a> · <a href="#quickstart">Quickstart</a> · <a href="#providers">Providers</a> · <a href="#streaming">Streaming</a> · <a href="#structured-output">Structured Output</a> · <a href="#tool-calling">Tool Calling</a>
+    <a href="https://amit641.github.io/aiclient/">Docs</a> · <a href="#install">Install</a> · <a href="#quickstart">Quickstart</a> · <a href="#providers">Providers</a> · <a href="#streaming">Streaming</a> · <a href="#structured-output">Structured Output</a> · <a href="#tool-calling">Tool Calling</a>
   </p>
 </p>
 
