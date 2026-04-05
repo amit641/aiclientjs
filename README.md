@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/demo.gif" alt="aiclientjs demo" width="700" />
+  <img src="https://raw.githubusercontent.com/amit641/aiclient/main/assets/demo.gif" alt="aiclientjs demo" width="700" />
 </p>
 
 ---
